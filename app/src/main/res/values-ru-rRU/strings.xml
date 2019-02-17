@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Конвертер валют</string>
+    <string name="action_settings">Настройки</string>
+    <string name="title_activity_currency_select">Выбор валюты</string>
+    <string name="currencies_url">http://www.cbr.ru/scripts/XML_daily.asp</string>
+    <string name="no_internet_connection">Нет доступа к интернету</string>
+    <string name="error">ОШИБКА</string>
+</resources>
